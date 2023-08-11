@@ -1,0 +1,10 @@
+ipython
+textblob
+wikipedia
+fire
+
+# testing and linting libraries
+pytest
+pytest-cov
+pylint
+black
